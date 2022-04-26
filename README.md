@@ -10,13 +10,36 @@
 
 <li>TARGET_WEBSITE : https://www.rottentomatoes.com</li>
 
-<li>HYPOTHESIS : "Can TOMATOMETER show meaningful linearity to sales from BOX-OFFICE"</li>
   
 </ul>
   
 <br/>
 
 
+<br/>
+
+<div align="center">
+
+<h1>FINAL PROJECT</h1>
+  
+<h3><strong>- BUSINESS PROBLEM -</strong></h3>
+  
+<p>Movie companies need information to make decisions</p>
+
+<br/>
+  
+<h3><strong>- HYPOTHESIS -</strong></h3>
+  
+<p><strong>"Can TOMATOMETER show meaningful linearity to sales from BOX-OFFICE"</strong></p>
+  
+<p>If the hypothesis is accepted, movie companies need to take care of TOMATOMETER.</p>
+
+<p>If the hypothesis is rejected, movie companies do not need to take care of TOMATOMETER.</p>
+
+</div>
+
+<br/>
+  
 ## TOP 100 MOVIES BY GENRE
 
 <img src="./src/1.png">
