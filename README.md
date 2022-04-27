@@ -35,8 +35,8 @@
   
    <h3><strong>- VISUALIZATION -</strong></h3>
   <p><strong>Matplotlib, SEABORN</strong></p>
-  <img src="./src/6.png">
-  <img src="./src/7.png">
+  <p>Scatter plots</p>
+  <img src="./src/8.png">
   <p>Check -> https://github.com/ziweek/rotten_tomatoes/blob/main/al.ipynb</p>
 </div>
 
