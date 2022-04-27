@@ -12,6 +12,8 @@
 
 <div align="center">
   <h1>FINAL PROJECT</h1>
+  <br/>
+  
   <h3><strong>- BUSINESS PROBLEM -</strong></h3>
   <p>Movie companies need information to make decisions</p>
   <br/>
@@ -29,6 +31,13 @@
   <img src="./src/4.png">
   <img src="./src/5.png">
   <p>Check -> https://github.com/ziweek/rotten_tomatoes/blob/main/crawler.ipynb</p>
+  <br/>
+  
+   <h3><strong>- VISUALIZATION -</strong></h3>
+  <p><strong>Matplotlib, SEABORN</strong></p>
+  <img src="./src/6.png">
+  <img src="./src/7.png">
+  <p>Check -> https://github.com/ziweek/rotten_tomatoes/blob/main/al.ipynb</p>
 </div>
 
 <br/>
